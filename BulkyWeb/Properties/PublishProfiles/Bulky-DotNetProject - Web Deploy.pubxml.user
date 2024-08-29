@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA3WkmBNT/XEyJxl5dIp/oagAAAAACAAAAAAAQZgAAAAEAACAAAADnEceA2QKu0D0wWA0Hp8rPg3daxyiF7KW06kG6Erz5YgAAAAAOgAAAAAIAACAAAACReI7UZW6KagHaxwCp9ZObZkjHkBm04wfND79WlHWgdoAAAAD5jwggn5utf2m9q0BuMuId6xMoNcn0kwpdFlWxlkUJ7YmJHMBcGeYDfJE4MNTLtDV4IU38DY6hSiAdkpHb3Yklsj3M3PIyDrdib0ue7PGVsA0y3W9a/n0E+z+ZspwKfM0Q5w1I9Yftk9hkfG+vNl//nTFal0rgF7Ol9Oa44oI/NkAAAAByHWqUYO7fuLhsIJtpHFlZdmb4J4/PL6qNix8pZIb8puzu11dbugilW56Ad1tdhjCoVh7Gnw1ADYjjyjyIU17S</EncryptedPassword>
+    <History>True|2024-08-04T15:43:32.8977779Z||;True|2024-08-04T21:10:33.4327069+05:30||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=tcp:bulkywebliveserver.database.windows.net,1433%3bInitial Catalog=BulkyWeb_db%3bUser Id=sqladmin%40bulkywebliveserver%3bPassword=Admin123%2a</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
